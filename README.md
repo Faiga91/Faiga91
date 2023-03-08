@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning unsupervised feature extraction methods.
 - 👯 I’m looking to collaborate on all of the above.
 - 💬 Ask me about machine learning, computer vision and IoT.
-- 📫 How to reach me: faiga@simula.no
+
 
 
 [![Faiga Alawad GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faiga91&show_icons=true&count_private=true)](https://github.com/Faiga91)
