@@ -1,5 +1,3 @@
-🔭 Working on deep learning for video analytics.
-
 📚 PhD thesis (in-progress): Improving resources use in sensor networks with machine learning. #iot #sensor-networks
 
 🎞️ Developing a video pipeline package. #computer-vision
